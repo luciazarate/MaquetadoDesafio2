@@ -1,9 +1,44 @@
-#encabezado{
+/*encabezado*/
+header{
     color:red;
     background-color: blue;
+    height: 80px;
+}
+img{
     height: 80px;
 }
 #datos{
     color: blue;
     height: 150px;
 }
+.btn{
+    float: right;
+    margin-top: 25px;
+    margin-right: 25px;
+ }
+ .banner{
+    height: 20%;
+ }
+ #imgbanner{
+    height: 600px;
+    width: 100%;
+ }
+ /*foto de perfil */
+ #perfil {
+    margin-left: 50px;
+margin-top: -70px;
+border-radius: 100%;
+height: 40%;
+width: auto;
+ }
+ .cuerpo{
+    color: blue;
+    background-color: aqua;
+    height: 300px;
+ }
+ .bloques{
+    color: blue;
+    background-color: beige;
+    height:600px ;
+ }
+ 
